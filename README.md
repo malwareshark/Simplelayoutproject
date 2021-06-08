@@ -1,2 +1,2 @@
 # Simplelayoutproject
-Emphasis fundamentals of design
+Emphasize fundamentals of design
